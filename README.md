@@ -6,6 +6,7 @@ For the dataset, we have 4 columns ‘Date’, ‘Product Name’, ‘Daily Sale
 
 
 The Files in this project includes:
+- Analytics test.xlsx -- The dataset
 - SmartBox Analytics Test.ipynb -- a jupyter notebook to make the data analysis and create the above visualizations.
 - SmartBox Analytics Test.pdf -- A report for all the data analysis made.
 - Power Bi Visualizations -- contains a dashboard with Monthly, Quarterly and Yearly aggregartions made on the data.
